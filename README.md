@@ -6,6 +6,10 @@
 
 This is the senction 2 challenge which features a portfolio using html and css.
 
+## Image
+
+![](./deploy_screenshot.png)
+
 ## Questions 
 
 If you have any questions, contact me
